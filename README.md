@@ -6,10 +6,21 @@ Started out as just an interest, what could I do to enhance my interest in chess
 **Limb-Joint-Angles**
 Wrote in Processing. The biggest challenge was the amount of vector math needed (A LOT). I did enjoy it though, and I finally got it working after some time, so that everything works as intended with user input.
 
+**Rubik's Cube**
+https://replit.com/@DavidZheng6/Cube#main.py
+<br>
+Tkinter enjoyers :D
+
 ## Still Learning:
 Web Development: HTML, CSS, React, JS
 <br>
 Getting better with these.
+
+## Potential Future Projects:
+Youtube helper
+<br>
+Bluetooth calling app
+<br> I know I have more, but I'll add these ideas when they come back
 
 ## Need a huge refresher
 C++ I haven't used in a long time, didn't really find as practical as Python
