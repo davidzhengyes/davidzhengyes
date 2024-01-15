@@ -26,3 +26,11 @@ Bluetooth calling app
 C++ I haven't used in a long time, didn't really find as practical as Python
 <br>
 Java? Python supremacy. I used Processing quite thoroughly though, which is based on Java.
+
+## Other Links
+<b> These replit accounts I don't use anymore, browser IDE is annoying. You might find something interesting! </b>
+<br>
+https://replit.com/@davidzheng6
+<br>
+https://replit.com/@davidzhengyes
+<br> <b> LinkedIn coming soon!?!?! </b>
