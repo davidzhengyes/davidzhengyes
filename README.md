@@ -11,6 +11,10 @@ https://replit.com/@DavidZheng6/Cube#main.py
 <br>
 Tkinter enjoyers :D
 
+# Current Project (s)
+https://github.com/davidzhengyes/Automation
+<br> Pretty much webscraper to detect new account postings, as API is unavailable.
+
 ## Still Learning:
 Web Development: HTML, CSS, React, JS
 <br>
